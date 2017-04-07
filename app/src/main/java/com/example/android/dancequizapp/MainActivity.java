@@ -78,7 +78,7 @@ public class MainActivity extends AppCompatActivity {
         if (((CheckBox) findViewById(R.id.answer_8_d_check_box)).isChecked())
             points--;
 
-        points = Math.min(points, 0);
+        points = Math.max(points, 0);
         Toast.makeText(this, "You scored " + points + " out of " + maxPoints + " points", Toast.LENGTH_SHORT).show();
     }
 }
