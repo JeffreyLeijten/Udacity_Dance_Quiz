@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Dance Quiz App</string>
+
+    <string name="question_1">Question 1: Which dance style is depicted below?</string>
+    <string name="answer_1_a">A. Jive</string>
+    <string name="answer_1_b">B. English Waltz</string>
+    <string name="answer_1_c">C. Tango</string>
+    <string name="answer_1_d">D. Quickstep</string>
+
+    <string name="question_2">Question 2: Who has(/have) won the show?</string>
+    <string name="answer_2_a">Meryl Davis</string>
+    <string name="answer_2_b">Zendaya</string>
+    <string name="answer_2_c">Rumer Willis</string>
+    <string name="answer_2_d">Sadie Robertson</string>
+
+    <string name="question_3">Question 3: Who is this (former) pro?</string>
+    <string name="answer_3">Mark Ballas</string>
+
+    <string name="question_4">Question 4: Which Olympic athlete was the last one to win the Mirror Ball Trophy before Laurie Hernandez?</string>
+    <string name="answer_4">Meryl Davis</string>
+
+    <string name="question_5">Question 5: Which dance style(s) has(/have) never been danced officially?</string>
+    <string name="answer_5_a">Hip hop</string>
+    <string name="answer_5_b">Line dance</string>
+    <string name="answer_5_c">Jitterbug</string>
+    <string name="answer_5_d">Mambo</string>
+    <string name="answer_5_e">Tap dance</string>
+
+    <string name="question_6">Question 6: Who is this (former) pro?</string>
+    <string name="answer_6_a">A. Sharna Burgess</string>
+    <string name="answer_6_b">B. Karina Smornoff</string>
+    <string name="answer_6_c">C. Cheryl Burke</string>
+    <string name="answer_6_d">D. Jenna Johnson</string>
+
+    <string name="question_7">Question 7: Which star has gotten the most perfect scores in a season</string>
+    <string name="answer_7">Bindi Irwin</string>
+
+    <string name="question_8">Which of these stars was(/were) the first elimination of their season?</string>
+    <string name="answer_8_a">Kim Kardashian</string>
+    <string name="answer_8_b">David Hasselhoff</string>
+    <string name="answer_8_c">Rick Perry</string>
+    <string name="answer_8_d">Steve Wozniak</string>
+
+    <string name="answer">Answer</string>
+    <string name="submit">Submit</string>
+</resources>
